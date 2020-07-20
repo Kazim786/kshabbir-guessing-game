@@ -3,7 +3,7 @@
 }
 
 body {
-    background: #2f3542 url(revealing-hidden-information-in-sound-waves-Sonar.jpg) no-repeat left center/cover;
+    background: #2f3542 url(revealing-hidden-information-in-sound-waves-Sonar.jpg) no-repeat right center/cover;
     color: white;
     min-height: 100vh;
     display: flex;
@@ -43,4 +43,8 @@ p {
     font-size: 30px;
     margin: 20px;
     padding: 10px;
+}
+
+.mic{
+    opacity: 0.3;
 }
